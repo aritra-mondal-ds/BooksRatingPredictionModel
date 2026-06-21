@@ -1,6 +1,6 @@
-# PythonLabs
+# Book Rating Prediction Model
 
-Book Rating Prediction Model This repository contains code for building a book rating prediction model using machine learning. The model uses the books.csv dataset, which is available in the repository.
+This repository contains code for building a book rating prediction model using machine learning. The model uses the books.csv dataset, which is available in the repository.
 
 Dependencies The following dependencies are required to run the code:
 
